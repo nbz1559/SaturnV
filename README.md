@@ -10,4 +10,4 @@ I have decided to intergrate lua into SaturnV, as a further customization option
 SaturnV was created with the idea of being one of the best trainers for legacy, it first started development on the 29th of August, 2025 and has since grown with around 10 - 20 new features added per update.
 
 ## Updates
-A changelog for lua can be viewed at https://github.com/nbz1559/SaturnV-Lua-Guide/blob/main/CHANGELOG.md and the one for the menu in ```CHANGELOG.md```
+A changelog for lua can be viewed at https://github.com/nbz1559/SaturnV-Lua-Guide/blob/main/CHANGELOG.md and the one for the menu in ```UPDATES.md```
