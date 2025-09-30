@@ -9,6 +9,7 @@
 - More teleport points in World > Teleportation > Places > Other
 - Game > Remove Notifications Above Minimap
 - Added SaturnV > Lua Scripts > Repository > Example Script
+- Fixed some crashes and bugs
 - See https://github.com/nbz1559/SaturnV-Lua-Guide/blob/main/CHANGELOG.md for more lua updates
 
 
