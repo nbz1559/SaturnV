@@ -228,7 +228,6 @@ On the release, the features were avalible
 - Self > Glue To Seat
 - Self > Infinite Stamina
 - Self > Inifnite Special Ability
-
 - Vehicle > Spawner > Vehicles > (Every vehicle was added in their classes but i wont list them, its too long)
 - Vehicle > Spawner > Start With Engine On
 - Vehicle > Spawner > Spawn In Vehicle
@@ -238,7 +237,6 @@ On the release, the features were avalible
 - Vehicle > Engine Power Multiplier 1 - 50
 - Vehicle > Fix
 - Vehicle > Delete
-
 - World > Teleportation > Waypoint
 - World > Teleportation > Places
 - World > Teleportation > Places > Maze Bank Tower
@@ -253,7 +251,6 @@ On the release, the features were avalible
 - World > Teleportation > Stores > Binco Clothing
 - World > Teleportation > Stores > Suburban
 - World > Teleportation > Stores > Ponsonbys
-
 - Game > Skip Dialogue
 - Game > Auto Skip Dialogue
 - Game > Auto Skip Cutscene
@@ -263,5 +260,4 @@ On the release, the features were avalible
 - Game > Money > Add $10,000
 - Game > Money > Add $100,000
 - Game > Money > Add $1,000,000
-- 
 - Game > Settings > Nothing to see here
