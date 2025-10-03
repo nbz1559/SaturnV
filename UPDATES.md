@@ -214,4 +214,53 @@
 
 
 # Version 1.00
-- Release
+On the release, the features were avalible
+Self > Weapons > Get Weapons > All Weapons
+Self > Weapons > Remove Weapons > All Weapons
+Self > Weapons > Infinite Ammo
+Self > Weapons > Perfect Accuracy
+Self > Invincibility
+Self > No Ragdoll
+Self > Cant be dragged out
+Self > Set Wanted Level 1 - 5
+Self > Lock Wanted Level
+Self > Set Fake Wanted Level 1 - 6
+Self > Glue To Seat
+Self > Infinite Stamina
+Self > Inifnite Special Ability
+
+Vehicle > Spawner > Vehicles > (Every vehicle was added in their classes but i wont list them, its too long)
+Vehicle > Spawner > Start With Engine On
+Vehicle > Spawner > Spawn In Vehicle
+Vehicle > Previous Vehicle > Enter
+Vehicle > Previous Vehicle > Teleport To Me
+Vehicle > Bulletproof Tires
+Vehicle > Engine Power Multiplier 1 - 50
+Vehicle > Fix
+Vehicle > Delete
+
+World > Teleportation > Waypoint
+World > Teleportation > Places
+World > Teleportation > Places > Maze Bank Tower
+World > Teleportation > Places > LSIA
+World > Teleportation > Places > Michaels House
+World > Teleportation > Places > Franklins New House
+World > Teleportation > Places > Auntie Denises House
+World > Teleportation > Places > Trevors Trailer
+World > Teleportation > Places > Floyd and Debras House
+World > Teleportation > Stores > Ammunation
+World > Teleportation > Stores > LS Customs
+World > Teleportation > Stores > Binco Clothing
+World > Teleportation > Stores > Suburban
+World > Teleportation > Stores > Ponsonbys
+
+Game > Skip Dialogue
+Game > Auto Skip Dialogue
+Game > Auto Skip Cutscene
+Game > Achievments (All achievements are listed but i wont list them, its too long)
+Game > Money > Set Cash <...>
+Game > Money > Add $1,000
+Game > Money > Add $10,000
+Game > Money > Add $100,000
+Game > Money > Add $1,000,000
+Game > Settings > Nothing to see here
