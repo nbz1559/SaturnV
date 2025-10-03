@@ -1,19 +1,31 @@
-# Version 3.0 (Testing)
-- Moved all original locations inside of World > Teleportation > Places to World > Teleportation > Places > Other
-- Moved all original locations inside of World > Teleportation > Stores to World > Teleportation > Places > Stores
+# Version 3.0 (Current)
+- Vehicle > Increase Grip
 - World > Teleportation > Places > Police Stations
 - World > Teleportation > Places > Hospitals
 - World > Teleportation > Places > Landmarks
 - World > Teleportation > Very High
-- More teleport points in World > Teleportation > Places > Stores
-- More teleport points in World > Teleportation > Places > Other
 - Game > Remove Notifications Above Minimap
-- Added SaturnV > Lua Scripts > Repository > Example Script
-- Fixed some crashes and bugs
+- Game > Achievements > – Achievements (0/77) – 
+- Game > Rendering > AnimpostFX
+
+- Added more teleport points in World > Teleportation > Places > Stores
+- Added more teleport points in World > Teleportation > Places > Other
+
+- Renamed World > Atmosphere > Clock > Set Time 00:00:00 to > Time 13:11:53 (It displays the actual time now)
+- Moved everything in Game > Rendering > Screen Effects to Game > Rendering
+- Moved all original locations inside of World > Teleportation > Places to World > Teleportation > Places > Other
+- Moved all original locations inside of World > Teleportation > Stores to World > Teleportation > Places > Stores
+- Made it so that Game > Achievements shows you which achievements you have completed
+
+- Added more character support for the text box
+- Added a flashing cursor to the text box
+- Minor upgrades and changes to the UI
+
+- Lua - Version 1.2
 - See https://github.com/nbz1559/SaturnV-Lua-Guide/blob/main/CHANGELOG.md for more lua updates
 
 
-# Version 2.8 (Current)
+# Version 2.8
 - Self > Appearance > No Blood
 - World > Teleportation > Saved Places
 - World > Teleportation > Saved Places > Open Folder
