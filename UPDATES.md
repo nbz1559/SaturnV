@@ -24,7 +24,7 @@
 - If they have the option for you to click it to enter a value, below the menu it will say “Click to input a value from minval - maxval”
 
 
-# Version 3.0 (Current)
+# Version 3.0
 - Vehicle > Increase Grip
 - World > Teleportation > Places > Police Stations
 - World > Teleportation > Places > Hospitals
