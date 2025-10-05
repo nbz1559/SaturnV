@@ -1,3 +1,29 @@
+# Version 3.1 (Current)
+- Self > Glue To Seat
+- Self > Movement > Tennis Mode
+- World > Atmosphere > Force Lightning Flash
+- World > World Light >
+- World > World Light > Toggle Light
+- World > World Light > R
+- World > World Light > G
+- World > World Light > B
+- World > World Light > Range
+- World > World Light > Intensity
+- Game > Remove loading indicator
+- Game > Minimap
+- Game > Remove Notifications Above Minimap to Game > Minimap
+- Game > Minimap > Hide Minimap
+- Game > Minimap > Toggle big minimap
+- Game > Minimap > Reveal entire map
+- Game > Disable Stuff
+- Game > Disable Stuff > Disable Stunt Jumps
+- Game > Disable Stuff > Disable Cinematic Camera
+- Game > Disable Stuff > Disable Idle Camera
+- Made it so on sliders when you click on some, it will prompt you with the text box to enter a value.
+- If sliders have the option for you to click it to run the command, below the menu it will say “Click to apply a value from minval - maxval”.
+- If they have the option for you to click it to enter a value, below the menu it will say “Click to input a value from minval - maxval”
+
+
 # Version 3.0 (Current)
 - Vehicle > Increase Grip
 - World > Teleportation > Places > Police Stations
