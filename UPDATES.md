@@ -1,3 +1,9 @@
+# Version 3.2 (Testing)
+Fixed some UI Issues
+
+Lua - Version 1.25
+Added Slider Float, see https://github.com/nbz1559/SaturnV-Lua-Guide/blob/main/CHANGELOG.md for more info
+
 # Version 3.1 (Current)
 - Self > Glue To Seat
 - Self > Movement > Tennis Mode
