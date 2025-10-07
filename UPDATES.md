@@ -1,11 +1,17 @@
-# Version 3.2 (Testing)
-Fixed some UI Issues
-Made it so if you can click to apply a value from a slider, that slider won't run its function when you change its value
+# Version 3.2 (Current)
+- Fixed some UI Issues
+- Removed Self > Glue To Seat (Due to it not working)
+- World > Teleportation > Stunt Jumps
+- World > Teleportation > Spaceship Parts
+- World > Beacon Manager > Draw Beacon To Mission Entities
+- World > Beacon Manager > Draw Beacon To Cars
+- Made it so when you click enter on a text slider, it opens up a submenu for that text slider
+- Made it so if you can click to apply a value from a slider, that slider won't run its function when you change its value
 
-Lua - Version 1.25
-Added Slider Float, see https://github.com/nbz1559/SaturnV-Lua-Guide/blob/main/CHANGELOG.md for more info
+- Lua - Version 1.25
+- Added Slider Float, see https://github.com/nbz1559/SaturnV-Lua-Guide/blob/main/CHANGELOG.md for more info
 
-# Version 3.1 (Current)
+# Version 3.1
 - Self > Glue To Seat
 - Self > Movement > Tennis Mode
 - World > Atmosphere > Force Lightning Flash
