@@ -1,4 +1,19 @@
-# Version 3.2 (Current)
+# Version 3.3 (Current)
+- Added a new panel, Scripting
+- Moved everything from SaturnV > Lua Scripts to Scripting
+- Fixed an issue with downloading Lua Scripts
+- Replaced Scripting > <Lua Script> > Toggle Script With Start Script / Stop Script
+- Upgraded UI in various ways
+
+- Lua - Version 1.3
+- Added hyper_link
+- Added read_only
+- Added node controlling
+- Added Globals
+- Added Clipboard functions
+- see https://github.com/nbz1559/SaturnV-Lua-Guide/blob/main/CHANGELOG.md for more info
+
+# Version 3.2
 - Fixed some UI Issues
 - Removed Self > Glue To Seat (Due to it not working)
 - World > Teleportation > Stunt Jumps
