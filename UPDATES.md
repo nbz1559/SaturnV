@@ -1,3 +1,28 @@
+# Version 3.5 (Current)
+- Vehicle > Movement
+- Vehicle > Movement > Handbrake
+- Vehicle > Movement > Drift Mode
+- Vehicle > Instantly Enter/Exit Vehicles
+- World > Atmosphere > Gravity 0 -3
+- Game > Minimap > Fullscreen Map
+
+- Added a short cooldown between starting and stopping a lua script (1 second) because if you spam start/stop it will crash your game
+- Added a proper clean up when turning off a lua script
+
+- Made error catching on lua better
+- Moved some vehicle options related to movement to Vehicle > Movement
+
+- Fixed the unknown cheats link directing you to youtube
+- Fixed some crashes and bugs
+- Fixed an issue with text slider default options
+- Fixed some spelling errors
+
+- If you load SaturnV with another ScriptHookV DLL (E.g. through a mod menu), when you unload the menu, it will now fully unload instead of leaving some features on
+
+- Lua - Version 1.35
+- Added entities.delete(handle), see https://github.com/nbz1559/SaturnV-Lua-Guide/blob/main/CHANGELOG.md for more info
+
+
 # Version 3.3 (Current)
 - Added a new panel, Scripting
 - Moved everything from SaturnV > Lua Scripts to Scripting
