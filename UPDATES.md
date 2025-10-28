@@ -1,4 +1,81 @@
-# Version 3.5 (Current)
+# Version 1.3 (Enhanced) (Current)
+- Added World > Draw Beacon To… > Include Dead NPCS
+- Added SaturnV > Quick Alt + F4
+
+- Improved Vehicle > Los Santos Customs
+- Renamed World > Beacon Manager to Draw Beacon To…
+- Moved Game > Info Overlay > Cops > Draw Beacon To Nearest Cop to World > Draw Beacon To…
+- Replaced World > Draw Beacon To… > Beacon Type with a text slider
+- Made beacons draw to inhabitants regardless if they are in a vehicle or not
+- Added minor UI changes
+- Added a detection if the process is invalid, eg your running SaturnV legacy in GTA enhanced, the menu wont run and your gta will shut in 5 seconds
+- Readded online checks, will do the same as above
+
+# Version 11.0.0 (Legacy) (Current)
+- Added World > Draw Beacon To… > Include Dead NPCS
+- Added SaturnV > Quick Alt + F4
+
+- Improved Vehicle > Los Santos Customs
+- Renamed World > Beacon Manager to Draw Beacon To…
+- Moved Game > Info Overlay > Cops > Draw Beacon To Nearest Cop to World > Draw Beacon To…
+- Replaced World > Draw Beacon To… > Beacon Type with a text slider
+- Made beacons draw to inhabitants regardless if they are in a vehicle or not
+- Added minor UI changes
+- Added a detection if the process is invalid, eg your running SaturnV legacy in GTA enhanced, the menu wont run and your gta will shut in 5 seconds
+- Readded online checks, will do the same as above
+
+
+# Version 1.1 (Enhanced)
+- Fixed no value being set when entering a value on sliders via the text box
+- Made Vehicle > Bulletproof Tires fix your tires when toggled on
+
+# Version 10.9.2 (Legacy)
+- Fixed no value being set when entering a value on sliders via the text box
+- Made Vehicle > Bulletproof Tires fix your tires when toggled on
+
+# Version 1.0 (Enhanced)
+- Released SaturnV for GTA5 Enhanced
+- Added 5 new Enhanced only cars
+
+
+# Version 10.8.3 (Legacy)
+- Added Vehicle > Spawner > Licence Plate
+- Added Vehicle > Los Santos Customs > <Vehicle> > Livery (Only shows if the vehicle has any liverys)
+- Added Vehicle > Los Santos Customs > <Vehicle> > Options > Change Licence Plate
+- Added more accurate mod type names, like for motorcycles instead of “Roof” it will say “Saddle Bags” for example
+
+- Removed the option to change your wheels if you registered a helicopter in Vehicle > Los Santos Customs
+
+- Made it so when registering a vehicle with Vehicle > Los Santos Customs, if the manufacturer name doesn’t exist and you chose to include the manufacturer names in the settings, it will just say the vehicle name, like “NULL Police Cruiser” - “Police Cruiser”
+
+- Upgraded the input controller and added auto scroll for sliders
+
+
+# Version 10.7.1 (Legacy)
+- Added World > Beacon Manager > Beacon Type
+- Added World > IPLS
+- Added World > IPLS > North Yankton
+- Added World > IPLS > Cayo Perico
+- Added World > IPLS > Red Carpet
+- Added World > IPLS > Aircraft Carrier
+- Added World > IPLS > Train Wreck
+- Added World > IPLS > FIB Lobby
+- Added World > NPCS > Traffic > Vehicle Manager > Delete
+- Added Game > Info Overlay > Time Since Last Death
+- Added Game > Info Overlay > Time Since Last Arrest
+
+- Fixed Info Overlays not drawing with the menu was toggled off
+
+- Made it so if you have the text box open and press 'F' and have Instantly Enter/Exit Vehicles on, it wont do anything
+
+- Added smooth scrolling
+
+
+# Version 10.5.1 (Legacy)
+The menu has had a bit of a refresh, and I was updating it for so long that I forgot to document the features I added, however around 30 - 40 were added.
+
+
+# Version 3.5 (Legacy)
 - Vehicle > Movement
 - Vehicle > Movement > Handbrake
 - Vehicle > Movement > Drift Mode
@@ -23,7 +100,7 @@
 - Added entities.delete(handle), see https://github.com/nbz1559/SaturnV-Lua-Guide/blob/main/CHANGELOG.md for more info
 
 
-# Version 3.3 (Current)
+# Version 3.3 (Legacy)
 - Added a new panel, Scripting
 - Moved everything from SaturnV > Lua Scripts to Scripting
 - Fixed an issue with downloading Lua Scripts
@@ -38,7 +115,7 @@
 - Added Clipboard functions
 - see https://github.com/nbz1559/SaturnV-Lua-Guide/blob/main/CHANGELOG.md for more info
 
-# Version 3.2
+# Version 3.2 (Legacy)
 - Fixed some UI Issues
 - Removed Self > Glue To Seat (Due to it not working)
 - World > Teleportation > Stunt Jumps
@@ -50,7 +127,7 @@
 - Lua - Version 1.25
 - Added Slider Float, see https://github.com/nbz1559/SaturnV-Lua-Guide/blob/main/CHANGELOG.md for more info
 
-# Version 3.1
+# Version 3.1 (Legacy)
 - Self > Glue To Seat
 - Self > Movement > Tennis Mode
 - World > Atmosphere > Force Lightning Flash
@@ -76,7 +153,7 @@
 - If they have the option for you to click it to enter a value, below the menu it will say “Click to input a value from minval - maxval”
 
 
-# Version 3.0
+# Version 3.0 (Legacy)
 - Vehicle > Increase Grip
 - World > Teleportation > Places > Police Stations
 - World > Teleportation > Places > Hospitals
@@ -99,7 +176,7 @@
 - See https://github.com/nbz1559/SaturnV-Lua-Guide/blob/main/CHANGELOG.md for more lua updates
 
 
-# Version 2.8
+# Version 2.8 (Legacy)
 - Self > Appearance > No Blood
 - World > Teleportation > Saved Places
 - World > Teleportation > Saved Places > Open Folder
@@ -115,7 +192,7 @@
 - No lua updates
 
 
-# Version 2.7
+# Version 2.7 (Legacy)
 - Vehicle > Los Santos Customs > Settings
 - Vehicle > Los Santos Customs > Settings > Registered Vehicle Dont Despawn
 - Vehicle > Los Santos Customs > [Vehicle] > Options > Enter
@@ -127,7 +204,7 @@
 - See https://github.com/nbz1559/SaturnV-Lua-Guide/blob/main/CHANGELOG.md for more lua updates
 
 
-# Version 2.65
+# Version 2.65 (Legacy)
 - Self > Refill Health
 - Self > Refill Armour
 - Vehicle > No Turbulence
@@ -138,22 +215,22 @@
 - Game > Rendering
 - See https://github.com/nbz1559/SaturnV-Lua-Guide/blob/main/CHANGELOG.md for more lua updates
 
-# Version 2.6
+# Version 2.6 (Legacy)
 - Fixed some bugs
 - See https://github.com/nbz1559/SaturnV-Lua-Guide/blob/main/CHANGELOG.md for more lua updates
 
-# Version 2.5
+# Version 2.5 (Legacy)
 - Made it so Game > Auto remove black screen is now toggled off by default, as this could interfer with lua scripts
 - Made it so if you try to open a submenu that has nothing inside it, the menu will refuse
 - Lua has been released, you can now make your own custom scripts, view https://github.com/nbz1559/SaturnV-Lua-Guide/blob/main/README.md for more info
 
 
-# Version 2.15
+# Version 2.15 (Legacy)
 - Fixed World > Teleportation > Teleportation type Character Swap again
 - Mostly been working on lua
 
 
-# Version 2.0
+# Version 2.0 (Legacy)
 - Self > Clumsiness
 - Game > Info Overlay > Cops
 - Game > Info Overlay > Cops - to Amount of cops
@@ -168,7 +245,7 @@
 - Information on how to make your own lua scripts will come out next update
 
 
-# Version 1.7
+# Version 1.7 (Legacy)
 - Removed SaturnV > Profiles due to it not working, and right now i cant make them work with my system. It may be added back in a future update
 - SaturnV > Settings > Appearance > Position
 - SaturnV > Settings > Appearance > Colours
@@ -187,7 +264,7 @@
 - Improved Auto-Scroll
 
 
-# Version 1.6
+# Version 1.6 (Legacy)
 - Removed Scripting
 - Vehicle > Trains
 - Vehicle > Trains > Search For Trains
@@ -205,14 +282,14 @@
 - Fixed Vehicle > Los Santos Customs
 
 
-# Version 1.5
+# Version 1.5 (Legacy)
 - Scripting
 - Scripting > Lua Scripts
 - Scripting > Lua Scripts > Refresh
 - Scripting > Lua Scripts > Open Folder
 
 
-# Version 1.4
+# Version 1.4 (Legacy)
 - Game > Info Overlay > NPCS
 - Game > Info Overlay > Vehicles
 - Self > Movement > Movement Clipset
@@ -220,7 +297,7 @@
 - Fixed Game > Info Overlay > Cops not showing all cops
 
 
-# Version 1.35
+# Version 1.35 (Legacy)
 - Self > Suicide
 - Vehicle > Toggle engine On/Off
 - World > Teleportation > Mission Objective
@@ -233,7 +310,7 @@
 - Made toggles more reliable
 
 
-# Version 1.3
+# Version 1.3 (Legacy)
 - Self > Appearance > Model > NPCS
 - Self > Weapons > Get Weapons > Pistols
 - Self > Weapons > Get Weapons > Smgs
@@ -252,7 +329,7 @@
 - Upgraded UI
 - Made the top bar show your position in the menu, like Saturn V 1.00 > Self > Weapons
 
-# Version 1.25
+# Version 1.25 (Legacy)
 - World > NPCS
 - World > NPCS > All NPCS
 - World > NPCS > Hostile NPCS
@@ -265,7 +342,7 @@
 - Upgraded the text box
 
 
-# Version 1.2
+# Version 1.2 (Legacy)
 - Self > Appearance > Model
 - Self > Model > Playable Characters
 - Self > Model > Land Animals
@@ -275,13 +352,13 @@
 - Game > Auto Remove Black screen (Auto toggled on)
 
 
-# Version 1.15
+# Version 1.15 (Legacy)
 - Vehicle > Indestructible
 - Removed Vehicle > Manage Vehicle (Replaced by Vehicle > Los Santos Customs in 1.2)
 - Fixed Self > Invincibility randomly turning off
 - Reduced file size
 
-# Version 1.10
+# Version 1.10 (Legacy)
 - Self > Toggle Invisibility
 - World > Atmosphere
 - World > Atmosphere > Weather
@@ -291,7 +368,7 @@
 - Fixed needing to press F5 instead of F4 to open the menu
 
 
-# Version 1.00
+# Version 1.00 (Legacy)
 On the release, the features were avalible
 - Self > Weapons > Get Weapons > All Weapons
 - Self > Weapons > Remove Weapons > All Weapons
