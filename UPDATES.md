@@ -1,7 +1,25 @@
-# Version 1.3 (Enhanced) (Current)
+All updaztes to enhanced are the same as legacy, unless they are exclusive to enhanced.
+
+# Version 11.1.3 (Legacy)
+# Version 1.4 (Enhanced)
+- Added World > Atmosphere > Clock > Use Freemode Time
+- Added World > Atmosphere > Clock > Speed
+- Removed Game > Info Overlay > Playing Time
+- Removed Game > Info Overlay > Time Since Last Death
+- Removed Game > Info Overlay > Time Since Last Arrest
+- Fixed Game > Info Overlay > FPS Showing an incorrect value when using a character's special ability and made it so it only updates every 300ms so you can actually read the frame rate.
+- Fixed the entirety of “Self” disappearing if you tried to register a vehicle that does not exist in Vehicle > Los Santos Customs
+- Fixed Vehicle > Movement > Max Speed not allowing you to set your speed over 540
+- Made it so it tells you what your current vehicle is in Los Santos Customs, and also draws a beacon the vehicle that is selected in the menu
+- Made it so in World > Teleportation > Saved Places, when a place is selected a beacon will be drawn to it
+- Did the same thing as above for IPLS
+- Made smooth scrolling adjust for your frame rate, instead of being too slow or too fast because it was fixed for 60fps
+
+
+# Version 11.0.0 (Legacy)
+# Version 1.3 (Enhanced)
 - Added World > Draw Beacon To… > Include Dead NPCS
 - Added SaturnV > Quick Alt + F4
-
 - Improved Vehicle > Los Santos Customs
 - Renamed World > Beacon Manager to Draw Beacon To…
 - Moved Game > Info Overlay > Cops > Draw Beacon To Nearest Cop to World > Draw Beacon To…
@@ -11,27 +29,12 @@
 - Added a detection if the process is invalid, eg your running SaturnV legacy in GTA enhanced, the menu wont run and your gta will shut in 5 seconds
 - Readded online checks, will do the same as above
 
-# Version 11.0.0 (Legacy) (Current)
-- Added World > Draw Beacon To… > Include Dead NPCS
-- Added SaturnV > Quick Alt + F4
 
-- Improved Vehicle > Los Santos Customs
-- Renamed World > Beacon Manager to Draw Beacon To…
-- Moved Game > Info Overlay > Cops > Draw Beacon To Nearest Cop to World > Draw Beacon To…
-- Replaced World > Draw Beacon To… > Beacon Type with a text slider
-- Made beacons draw to inhabitants regardless if they are in a vehicle or not
-- Added minor UI changes
-- Added a detection if the process is invalid, eg your running SaturnV legacy in GTA enhanced, the menu wont run and your gta will shut in 5 seconds
-- Readded online checks, will do the same as above
-
-
+# Version 10.9.2 (Legacy)
 # Version 1.1 (Enhanced)
 - Fixed no value being set when entering a value on sliders via the text box
 - Made Vehicle > Bulletproof Tires fix your tires when toggled on
 
-# Version 10.9.2 (Legacy)
-- Fixed no value being set when entering a value on sliders via the text box
-- Made Vehicle > Bulletproof Tires fix your tires when toggled on
 
 # Version 1.0 (Enhanced)
 - Released SaturnV for GTA5 Enhanced
@@ -43,11 +46,8 @@
 - Added Vehicle > Los Santos Customs > <Vehicle> > Livery (Only shows if the vehicle has any liverys)
 - Added Vehicle > Los Santos Customs > <Vehicle> > Options > Change Licence Plate
 - Added more accurate mod type names, like for motorcycles instead of “Roof” it will say “Saddle Bags” for example
-
 - Removed the option to change your wheels if you registered a helicopter in Vehicle > Los Santos Customs
-
 - Made it so when registering a vehicle with Vehicle > Los Santos Customs, if the manufacturer name doesn’t exist and you chose to include the manufacturer names in the settings, it will just say the vehicle name, like “NULL Police Cruiser” - “Police Cruiser”
-
 - Upgraded the input controller and added auto scroll for sliders
 
 
@@ -63,11 +63,8 @@
 - Added World > NPCS > Traffic > Vehicle Manager > Delete
 - Added Game > Info Overlay > Time Since Last Death
 - Added Game > Info Overlay > Time Since Last Arrest
-
 - Fixed Info Overlays not drawing with the menu was toggled off
-
 - Made it so if you have the text box open and press 'F' and have Instantly Enter/Exit Vehicles on, it wont do anything
-
 - Added smooth scrolling
 
 
@@ -82,20 +79,15 @@ The menu has had a bit of a refresh, and I was updating it for so long that I fo
 - Vehicle > Instantly Enter/Exit Vehicles
 - World > Atmosphere > Gravity 0 -3
 - Game > Minimap > Fullscreen Map
-
 - Added a short cooldown between starting and stopping a lua script (1 second) because if you spam start/stop it will crash your game
 - Added a proper clean up when turning off a lua script
-
 - Made error catching on lua better
 - Moved some vehicle options related to movement to Vehicle > Movement
-
 - Fixed the unknown cheats link directing you to youtube
 - Fixed some crashes and bugs
 - Fixed an issue with text slider default options
 - Fixed some spelling errors
-
 - If you load SaturnV with another ScriptHookV DLL (E.g. through a mod menu), when you unload the menu, it will now fully unload instead of leaving some features on
-
 - Lua - Version 1.35
 - Added entities.delete(handle), see https://github.com/nbz1559/SaturnV-Lua-Guide/blob/main/CHANGELOG.md for more info
 
