@@ -1,4 +1,16 @@
 All updaztes to enhanced are the same as legacy, unless they are exclusive to enhanced.
+# Version 11.1.7 (Legacy)
+# Version 1.5 (Enhanced)
+- Added Vehicle > Spawner > Spawn At: Current Position or Closest Road
+- Added Vehicle > Passengers
+- Added World > Teleportation > Short Distances > Up
+- Added World > Teleportation > Short Distances > Down
+- Added World > Inhabitants > Vehicles > Traffic > Vehicle Manager > Launch Forward
+- Renamed World > NPCS to World > Inhabitants
+- Fixed Vehicle > Movement > Max Speed being set to 1944 instead of 540 by default (It goes back to normal if you change its value) and made it so if your game measurement system is set to KPH, then it will change your max speed in KPH, and MPH in MPH.
+- Fixed Vehicle > Los Santos Customs > <vehicle> > Change Display Name only changing the name for one frame
+- Fixed some bugs
+
 
 # Version 11.1.3 (Legacy)
 # Version 1.4 (Enhanced)
