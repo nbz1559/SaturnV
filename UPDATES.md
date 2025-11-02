@@ -1,4 +1,4 @@
-All updaztes to enhanced are the same as legacy, unless they are exclusive to enhanced.
+All updates to enhanced are the same as legacy, unless they are exclusive to enhanced.
 # Version 11.1.7 (Legacy)
 # Version 1.5 (Enhanced)
 - Added Vehicle > Spawner > Spawn At: Current Position or Closest Road
