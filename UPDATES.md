@@ -1,4 +1,19 @@
 All updates to enhanced are the same as legacy, unless they are exclusive to enhanced.
+
+# Version 11.2.0 (Legacy)
+# Verion 1.6 (Enhanced)
+- Re-added Self > Glue To Seat
+- Added Vehicle > Leave Engine On When Exiting
+- Added Vehicle > Lights & Signals
+- Added Vehicle > Los Santos Customs > Settings > Auto Register Vehicles
+- Added Vehicle > Los Santos Customs > Settings > Auto Register Spawned Vehicles
+- Added World > Teleportation > Saved Places > Save Waypoint Position
+- Added World > Teleportation > Bail Switch
+- Added Game > Alarms
+- Moved textures more to the right
+- Fixed an issue with beacons for places to teleport being on even if the command isnt selected
+
+
 # Version 11.1.7 (Legacy)
 # Version 1.5 (Enhanced)
 - Added Vehicle > Spawner > Spawn At: Current Position or Closest Road
