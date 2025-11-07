@@ -1,5 +1,17 @@
 All updates to enhanced are the same as legacy, unless they are exclusive to enhanced.
 
+# Version 11.3.0 (Legacy)
+# Version 1.7 (Enhanced)
+- Added World > Inhabitants > Oblivious NPCS
+- Added Game > Info Overlay > Location
+- Added SaturnV > Settings > Appearance > Info Overlay
+- Moved SaturnV > Settings > Appearance > Colours > Info Overlay to the new Info Overlay Settings Submenu
+- Added a new script “Custom Notifications” to the lua repository
+- Fixed some minor bugs
+- Fixed when loading a profile some states not apart of the profile were still on
+- Made notifications sent by the menu disappear faster
+
+
 # Version 11.2.0 (Legacy)
 # Verion 1.6 (Enhanced)
 - Re-added Self > Glue To Seat
