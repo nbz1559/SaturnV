@@ -1,3 +1,12 @@
+# Updater Version 2.0
+
+- Fixed ‘Changelog’ Not directing you to the changelog
+
+- Gave the updater a debug log
+
+- Added a button to join the discord
+
+
 # Updater Version 1.9
 
 - Fixed the progress bar not working
