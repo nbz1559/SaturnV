@@ -1,3 +1,8 @@
+# Updater Version 2.1
+
+- Made the changelog apart of the updater instead of github
+
+
 # Updater Version 2.0
 
 - Fixed ‘Changelog’ Not directing you to the changelog
